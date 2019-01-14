@@ -1,4 +1,5 @@
 # Jlog
 Jupiter Log
 
-https://nbviewer.jupyter.org/github/adw0rd/jlog/tree/master/
+* https://anaconda.org/adw0rd/notebooks
+* https://nbviewer.jupyter.org/github/adw0rd/jlog/tree/master/
